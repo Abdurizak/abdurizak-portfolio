@@ -11,7 +11,7 @@ Open the extracted folder with VSCode
 Go live or open the index.html file with chrome
 And you are all done
 ## Live server
-You can view the web live on [Portfolio](https://abdurizak.github.io/abdurizak-portfolio-sdft11/)
+You can view the web live on[(https://abdurizak.github.io/abdurizak-portfolio-sdft11/)]
 ## Known Bugs
 The application works perfectly well, no bugs.
 
